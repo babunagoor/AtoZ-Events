@@ -1,0 +1,23 @@
+.searchvendor{
+    width: 300px;
+    border: none;
+    border-radius: 15px;
+    height: 45px;
+    padding: 0px 10px;
+}
+.searchvendor:focus{
+    outline: none;
+}
+.carousel .slide img {
+    width: 100vw !important;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    height: 550px;
+    vertical-align: top;
+    border: 0;
+    object-fit: fill;
+    object-position: center;
+}
+.vendorlist{
+    background-color: rgba(0,0,0,.8);
+}

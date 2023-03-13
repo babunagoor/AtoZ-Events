@@ -1,0 +1,26 @@
+.searchLabel{
+    /* width: 400px; */
+    display: flex;
+    flex-direction: row;
+    background-color: #fff;
+    align-items: center;
+    /* border: 2px solid #fff; */
+    border-radius: 10px;
+    padding: 0px 10px;
+
+}
+.searchfor{
+    border: none;
+    height: 45px;
+    /* font-size: 16px; */
+}
+.searchfor:focus{
+    outline: none;
+}
+.hline {
+    height: 28px !important;
+    background-color: gray;
+    width: 1px;
+    border-radius: 25%;
+    margin: 0 10px;
+}
